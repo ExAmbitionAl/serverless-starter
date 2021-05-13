@@ -1,0 +1,17 @@
+{
+  "name": "serverless-starter",
+  "version": "1.0.0",
+  "description": "Starter boilerplate code for API projects running on Serverless.js framefork",
+  "main": "serverless.yaml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksandar Polic",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.905.0",
+    "dotenv": "^9.0.2",
+    "serverless": "^2.41.1",
+    "serverless-offline": "^7.0.0"
+  }
+}
